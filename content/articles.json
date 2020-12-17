@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "slug": "covid-testing-lab",
+    "date": "December 15, 2020",
+    "title": "UCSC expands COVID-19 testing during surge to support community needs",
+    "teaser": "A gift from Bud and Rebecca Colligan will expand testing capacity and help fund a new, dedicated laboratory space to house the diagnostic lab in the Genomics Institute’s facilities at the Westside Research Park.",
+    "url": "https://news.ucsc.edu/2020/12/covid-testing-lab.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2020/12/images/colligans-400.jpg",
+      "text": "Rebecca and Bud Colligan"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "campus-wildfire-evacuation",
+    "date": "August 25, 2020",
+    "title": "Threatened by wildfire, UC Santa Cruz campus shows it is 'Slug Strong'",
+    "subtitle": "Fast thinking and teamwork help keep the campus community safe during the devastating Lightning Complex fires",
+    "teaser": "Fast thinking and teamwork are keeping the UC Santa Cruz campus community safe during the devastating Lightning Complex fires as staff across campus coordinate in evacuating, relocating, and feeding displaced campus residents.",
+    "url": "https://news.ucsc.edu/2020/08/campus-wildfire-evacuation.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2020/08/images/dining-sunroom-550.jpg",
+      "text": "Workers pack meals in bags for families affected by wildland fires."
+    }
+  },
+  {
+    "id": 3,
+    "slug": "carol-greider",
+    "date": "May 21, 2020",
+    "title": "Eminent biologist Carol Greider to join UC Santa Cruz faculty",
+    "teaser": "Known for her pioneering work on telomeres, Greider brings exceptional research and leadership skills to her appointment in the Department of Molecular, Cell, and Developmental Biology.",
+    "url": "https://news.ucsc.edu/2020/05/carol-greider.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2020/05/images/carol-greider-410.jpg",
+      "text": "Carol Greider"
+    }
+  },
+  {
+    "id": 4,
+    "slug": "climate-variability",
+    "date": "September 10, 2020",
+    "title": "High-fidelity record of Earth's climate history puts current changes in context",
+    "teaser": "A continuous record of the past 66 million years shows natural climate variability due to changes in Earth’s orbit around the sun is much smaller than projected future warming due to greenhouse gas emissions.",
+    "url": "https://news.ucsc.edu/2020/09/climate-variability.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2020/09/images/climate-states-800.jpg",
+      "text": "Past and future trends in global mean temperature spanning the last 66 million years."
+    }
+  },
+  {
+    "id": 5,
+    "slug": "devs-ucsc",
+    "date": "March 17, 2020",
+    "title": "Sci-fi thriller 'Devs' uses prominent campus sites as key locations",
+    "teaser": "Producers of 'Devs,' the sci-fi thriller that premiered March 5, 2020 on Hulu, were looking for just the right location to depict a high-tech corporate campus with a tinge of dystopia.",
+    "url": "https://news.ucsc.edu/2020/03/devs-ucsc.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2020/03/images/devs-mchenry-450.jpg",
+      "text": "'Devs' production near the back side of McHenry Library"
+    }
+  },
+  {
+    "id": 6,
+    "slug": "laurie-garrett-coronavirus-interview",
+    "date": "March 9, 2020",
+    "title": "Pandemics expert: We need leadership, creative thinking, and government accountability as coronavirus spreads",
+    "teaser": "Pulitzer Prize-winning science reporter Laurie Garrett calls for communities to work together to cope with the coronavirus, caring for the most vulnerable and fighting back against misinformation.",
+    "url": "https://news.ucsc.edu/2020/03/laurie-garrett-coronavirus-interview.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2020/07/images/lauriegarrettpoptech2008.jpg",
+      "text": "Laurie Garrett giving a presentation at PopTech conference"
+    }
+  },
+  {
+    "id": 7,
+    "slug": "library-historic-photos",
+    "date": "October 1, 2020",
+    "title": "UCSC publishes online collection of 10,000 photos documenting over a century of Santa Cruz history",
+    "teaser": "The University Library at UC Santa Cruz announced today the online publication of the Santa Cruz County Historic Photograph Collection, featuring original photographs and copy prints from 1866 to 1995.",
+    "url": "https://news.ucsc.edu/2020/10/library-historic-photos.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2020/10/images/storm-seabright-beach-3501.jpg",
+      "text": "A wave crashes against a castle structure in this black and white photo."
+    }
+  },
+  {
+    "id": 8,
+    "slug": "x-chromosome",
+    "date": "July 14, 2020",
+    "title": "Scientists achieve first complete assembly of human X chromosome",
+    "teaser": "The first end-to-end ('telomere-to-telomere') completely gapless DNA sequence of a human chromosome is a major milestone for genomics research.",
+    "url": "https://news.ucsc.edu/2020/07/x-chromosome.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2020/07/images/x-chromosome-410.jpg",
+      "text": "The X chromosome is the first human chromosome to be completely sequenced from end to end"
+    }
+  },
+  {
+    "id": 9,
+    "slug": "ucsc-barring-freedom",
+    "date": "October 13, 2020",
+    "title": "Challenging how we see the prison-industrial complex",
+    "teaser": "An ambitious two-part exhibit, titled Barring Freedom and Visualizing Abolition, organized by the UC Santa Cruz Institute of the Arts and Sciences, combines art and activism to address prison and policing issues.",
+    "url": "https://news.ucsc.edu/2020/10/ucsc-barring-freedom.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2020/10/images/barring-freedom-sculpture.jpg",
+      "text": "A sculpture of hands holding a line on a white wall"
+    }
+  },
+  {
+    "id": 10,
+    "slug": "benner-workers",
+    "date": "May 5, 2020",
+    "title": "Already vulnerable, gig economy workers in San Francisco suffer during coronavirus pandemic, survey reveals",
+    "subtitle": "Unique in-person survey establishes new baseline, while online survey provides a snapshot of pandemic's effects",
+    "teaser": "A new survey of app-based ride-hailing and food and grocery-delivery workers in San Francisco underscores the financial vulnerability of workers in the gig economy—and the coronavirus has made their plight much worse.",
+    "url": "https://news.ucsc.edu/2020/05/benner-workers.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2020/05/images/benner-workers_400.jpg",
+      "text": "A gig economy driver looks at this phone"
+    }
+  }
+]
