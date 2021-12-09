@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "slug": "college-ten-announcement",
+    "date": "October 27, 2021",
+    "title": "UC Santa Cruz advances commitment to social justice with College 10 naming in honor of John R. Lewis",
+    "teaser": "College Ten—an undergraduate residential learning community founded on principles of social justice and community—will be named in honor of the late congressman and civil rights icon John R. Lewis.",
+    "url": "https://news.ucsc.edu/2021/10/college-ten-announcement.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2021/10/images/lewis-400.jpg",
+      "text": "John R. Lewis stands in front of the Edmund Pettus Bridge"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "princeton-review",
+    "date": "April 27, 2021",
+    "title": "UC Santa Cruz named No. 3 public university for 'making an impact'",
+    "teaser": "Underscoring a reputation of pushing for positive change, UC Santa Cruz has been named the No. 3 public university in the nation for students focused on making an impact on the world in the Princeton Review’s latest college rankings.",
+    "url": "https://news.ucsc.edu/2021/04/princeton-review.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2021/04/images/ghg-research-500px.jpg",
+      "text": "A student examins a catepillar in a UC Santa Cruz greenhouse"
+    }
+  },
+  {
+    "id": 3,
+    "slug": "kelp-forests-norcal",
+    "date": "March 5, 2021",
+    "title": "The collapse of Northern California kelp forests will be hard to reverse",
+    "teaser": "Most of Northern California's kelp forest ecosystem is gone, replaced by widespread ‘urchin barrens’ that may persist long into the future, according to a new study.",
+    "url": "https://news.ucsc.edu/2021/03/kelp-forests-norcal.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2021/03/images/urchin-barren-400.jpg",
+      "text": "An urchin barren dominated by purple sea urchins"
+    }
+  },
+  {
+    "id": 4,
+    "slug": "virtual-reality-time-compression",
+    "date": "September 10, 2020",
+    "title": "Virtual reality warps your sense of time",
+    "teaser": "Psychology research demonstrates the unique 'time compression' effect of virtual reality.",
+    "url": "https://news.ucsc.edu/2021/05/virtual-reality-time-compression.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2021/05/images/vr-headset-350.jpg",
+      "text": "A young person holding virtual reality goggles over their eyes."
+    }
+  },
+  {
+    "id": 5,
+    "slug": "mellon-visualizing-abolition",
+    "date": "October 5, 2021",
+    "title": "Mellon Foundation award to support UC Santa Cruz’s ‘Visualizing Abolition’ initiative",
+    "teaser": "The Andrew W. Mellon Foundation has awarded a $1,977,000 grant to support 'Visualizing Abolition,' the nation's most ambitious and sustained art and prison abolition initiative.",
+    "url": "https://news.ucsc.edu/2020/03/devs-ucsc.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2021/10/images/solitary-garden-500px.jpg",
+      "text": "Solitary Garden, a public art project by New Orleans-based artist Jackie Sumell"
+    }
+  },
+    {
+    "id": 6,
+    "slug": "yamashita-lifetime-achievement",
+    "date": "September 13, 2021",
+    "title": "Karen Tei Yamashita to receive 2021 Medal for Distinguished Contribution to American Letters",
+    "teaser": "Yamashita is now the 34th recipient of the prestigious lifetime achievement award, joining the ranks of such prominent authors as Toni Morrison, Walter Mosley, Isabel Allende, Don DeLillo, Joan Didion, E.L. Doctorow, Maxine Hong Kingston, Stephen King, Ursula K. Le Guin, Elmore Leonard, Norman Mailer, and Adrienne Rich.",
+    "url": "https://news.ucsc.edu/2021/09/yamashita-lifetime-achievement.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2021/09/images/yamashita-3752.png",
+      "text": "UC Santa Cruz emerita professor of literature Karen Tei Yamashita"
+    }
+  },
+  {
+    "id": 7,
+    "slug": "live-cell-genomics",
+    "date": "September 27, 2021",
+    "title": "NIH funds Center for Live Cell Genomics at UC Santa Cruz",
+    "teaser": "The NIH Centers of Excellence in Genomic Science program has awarded $13.5 million over five years for a new center to advance genomics in biomedical research.",
+    "url": "https://news.ucsc.edu/2021/09/live-cell-genomics.html",
+    "image": {
+      "url": "https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/b/1275/files/2021/07/AdobeStock_276970565-768x432-1.jpeg",
+      "text": "DNA strands viosualized with rainbow colors"
+    }
+  },
+  {
+    "id": 8,
+    "slug": "supernova-rosetta",
+    "date": "October 21, 2021",
+    "title": "Astronomers witnessed the spectacular death of a star as it happened",
+    "teaser": "Observations with multiple telescopes yield new insights into the final stages in the evolution of a massive star before it exploded in a core-collapse supernova",
+    "url": "https://news.ucsc.edu/2021/10/supernova-rosetta.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2021/10/images/sn2020fqv-graphic-450.jpg",
+      "text": "Supernova SN 2020fqv explode inside the interacting Butterfly galaxies."
+    }
+  },
+  {
+    "id": 9,
+    "slug": "adolescent-gender-sexual-identity",
+    "date": "March 29, 2021",
+    "title": "Teens describe their gender and sexuality in diverse new ways, but some are being left behind",
+    "teaser": "Psychology Professor Phil Hammack’s latest research shows how regional differences and other social factors can either hinder or support expression of diversity in sexual and gender identity among teens and young adults.",
+    "url": "https://news.ucsc.edu/2021/03/adolescent-gender-sexual-identity.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2021/03/images/adolescent-identity-450.jpg",
+      "text": "Students gather together, one is draped with the LGTBQ+ flag"
+    }
+  },
+  {
+    "id": 10,
+    "slug": "connor-izzy-olympian",
+    "date": "July 20, 2021",
+    "title": "Blazing a Slug trail to the Olympics",
+    "teaser": "Rhythmic gymnast Izzy Connor will be the first UC Santa Cruz student to compete in the Olympics—the result of years of both personal struggle and success",
+    "url": "https://news.ucsc.edu/2021/07/connor-izzy-olympian.html",
+    "image": {
+      "url": "https://news.ucsc.edu/2021/07/images/connor-izzy-coach.jpg",
+      "text": "Connor checks in with head coach Margarita Mamzina"
+    }
+  }
+]
