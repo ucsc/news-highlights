@@ -3,6 +3,7 @@
     <SiteHeader />
     <PageHeader />
     <Nuxt />
+    <PageFooter />
   </div>
 </template>
 
@@ -17,10 +18,10 @@ $white: #fff;
   justify-content: space-between;
   align-items: center;
   color: $white;
-  max-width: 67.5em;
+  max-width: 70em;
   margin-left: auto;
   margin-right: auto;
-  padding: 0 1em;
+  padding: .5em 1em;
 }
 
 html {
@@ -43,7 +44,7 @@ html {
 }
 
 body {
-  @apply bg-gradient-to-t from-blue-800 to-white
+  @apply bg-gradient-to-t from-blue-900 to-white;
 }
 
 *,

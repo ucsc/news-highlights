@@ -23,18 +23,7 @@ $white: #fff;
 
 .ucsc-header {
   padding: .5em 0;
-  background-color: $blue;
-}
-
-.row {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  color: $white;
-  max-width: 67.5em;
-  margin-left: auto;
-  margin-right: auto;
-  color: #333;
+  background-color: $white;
 }
 
 .header-right {
@@ -43,7 +32,7 @@ $white: #fff;
 
   a:link,
   a:visited {
-    color: $white;
+    color: $blue;
     padding: 0.25em;
     text-decoration: none;
     border-bottom: 1px solid transparent;
@@ -52,11 +41,10 @@ $white: #fff;
   a:hover,
   a:focus {
     border-bottom: 1px solid $gold;
-    background-color: lighten($blue, 10%);
   }
 
   a:active {
-    background-color: lighten($blue, 14%);
+    background-color: lighten($blue, 60%);
     border-bottom: 1px solid $white;
   }
 
@@ -64,12 +52,6 @@ $white: #fff;
 
 .header-left {
   display: flex;
-}
-
-.campus-home {
-  font-size: 1.4rem;
-  color: $white;
-  font-weight: 600;
 }
 
 </style>

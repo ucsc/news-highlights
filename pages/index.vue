@@ -23,7 +23,7 @@ export default {
     Highlight,
   },
   async asyncData ({ $content }) {
-    const highlights = await $content('articles').sortBy('id', 'asc').fetch();
+    const highlights = await $content('2021-articles').sortBy('id', 'asc').fetch();
     return {
       highlights
     };
