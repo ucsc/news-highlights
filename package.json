@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-2020-highlights",
+  "name": "news-highlights",
   "version": "1.2.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,7 @@
   "dependencies": {
     "@nuxt/content": "^1.11.1",
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.6",
+    "nuxt": "^2.15.8",
     "sass": "^1.30.0",
     "sass-loader": "^10.1.0",
     "standard-version": "^9.0.0"
