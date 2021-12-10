@@ -8,7 +8,7 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: '2021: A year of giving voice to the challenges of our time',
+    title: 'Year in review: Giving voice to the challenges of our time',
     meta: [
       { charset: 'utf-8' },
       {
@@ -30,7 +30,7 @@ export default {
       {
         hid: "og:title",
         property: "og:title",
-        content: "2021: A year of giving voice to the challenges of our time",
+        content: "Year in review: Giving voice to the challenges of our time",
       },
       {
         hid: "og:description",

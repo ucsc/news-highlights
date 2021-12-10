@@ -1,7 +1,7 @@
 <template>
   <div class="row">
     <div>
-      <h1 class="text-3xl leading-10 md:text-4xl md:leading-normal">2021: A year of giving voice to the challenges of our time</h1>
+      <h1 class="text-3xl leading-10 md:text-4xl md:leading-normal">Year in review: Giving voice to the challenges of our time</h1>
       <p>With purpose-driven and persistent effort, we sought to advance justice, push the envelope of knowledge, and advocate for transformative change.</p>
     </div>
   </div>
@@ -22,7 +22,6 @@ export default {
   h1 {
     @apply text-blue-800 font-bold mb-0;
     animation: .5s appear;
-
   }
 
   p {
