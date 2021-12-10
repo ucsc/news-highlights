@@ -1,6 +1,6 @@
 <template>
   <div class="row">
-      <img src="~/assets/change-badge.png" />
+      <img src="/change-badge.png" />
     </div>
 </template>
 
